@@ -8,6 +8,7 @@ namespace TestDemo
     public  class FodyTest
     {
         public string a = "aa";
+        public string b = "aa";
         public void DoSomething()
         {
             Console.WriteLine("dd");
